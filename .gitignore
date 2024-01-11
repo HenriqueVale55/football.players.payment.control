@@ -1,0 +1,30 @@
+# Arquivos compilados
+target/
+
+# Bytecode
+*.class
+
+# Arquivos de configuração do Eclipse
+.settings/
+
+# Arquivos de compilação do Maven
+log/
+target/
+mvnw
+mvnw.cmd
+.mvn/
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Dependências do Maven
+/.mvn
+/repository/
+
+# Logs
+log/
+
+# Arquivos gerados pelo Spring Boot
+spring-boot-starter-logging/
+
